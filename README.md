@@ -1,2 +1,2 @@
 ## AI_Finance_HW1
-### concept: 選擇權
+### concept: option call put/bull spread/straddle/strangle/butterfly spread
